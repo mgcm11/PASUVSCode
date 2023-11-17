@@ -37,3 +37,10 @@ Foram usadas as seguintes ferramentas para o desenvolvimento da atividade:
 
 
     <a href="https://ubuntu.com/download/server">ubuntu server 22.04 </a>
+
+
+    ### virtual box 
+
+    A Oracle VM VirtualBox, software de virtualização de plataforma cruzada de código aberto mais popular do mundo, permite que os desenvolvedores forneçam código mais rápido executando vários sistemas operacionais em um único dispositivo.
+
+    <a href="https://www.virtualbox.org/wiki/Downloads">virtual box 7.0.12
