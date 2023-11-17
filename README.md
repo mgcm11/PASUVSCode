@@ -1,7 +1,11 @@
 # preparaçao de ambiente para servidor ubuntu acessando o vs code
 
 ## Veremos abaixo as ferramentas utilizadas 
-foram usadas as seguintes ferramentas para o desenvolvimento da atividade:
+
+!["logo ubuntu"](./logoubuntu.png)
+
+
+Foram usadas as seguintes ferramentas para o desenvolvimento da atividade:
 
 - Dowload do sistema operacional linux
 
