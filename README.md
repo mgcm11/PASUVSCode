@@ -3,23 +3,23 @@
 ## Veremos abaixo as ferramentas utilizadas 
 foram usadas as seguintes ferramentas para o desenvolvimento da atividade:
 
--Dowload do sistema operacional linux:
+- Dowload do sistema operacional linux
 
--ubunto server
+- ubunto server
 
--Configuraçao da maquina virtual no virtual box 
+- Configuraçao da maquina virtual no virtual box 
 
--instalaçao do sistema operacional na maquina criada
+- instalaçao do sistema operacional na maquina criada
 
--atualizaçao do sistema opreracional
+- atualizaçao do sistema opreracional
 
--instalaçao do cokpit
+- instalaçao do cokpit
 
--instalaçao do git
+- instalaçao do git
 
--intalaçao do gcc
+- instalaçao do gcc
 
--configuraçao de portas no virtual box 
+- configuraçao de portas no virtual box 
 
--acesso via SSH no vscode
+- acesso via SSH no vscode
     
